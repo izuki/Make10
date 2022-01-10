@@ -1,7 +1,7 @@
 # Make10
 izuki/Make10
 
-image or gif
+## image or gif
 
 ## Overview
 make10はテンパズルとも呼ばれるゲームです。
